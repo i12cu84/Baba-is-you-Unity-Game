@@ -8,7 +8,7 @@ It was made by unity and stopped maintenance on 2022.4.25
 | demo 0   | Github@sejinP | 0        | Github作者sejinP运作试用版本     |
 | code 0        | Github@I12cu84    | 1.0      | 第一次重构时设计地图版本的脚本   |
 | code 1         | Github@I12cu84    | 1.1      | 重构后可以运作的最新版脚本       |
-| demo 1 | Github@I12cu84    | 1.1      | Bate 1.1脚本展现的可运作试用版本 |
+| demo 1 | Github@I12cu84    | 1.1      | code 1可运作试用版本 |
 
 code 0 -> 1.0
 
